@@ -1,0 +1,19 @@
+{
+  "name": "shoaib117_table_printing_cli",
+  "version": "1.0.2",
+  "description": "This is table printing cli project user can enter any number and get the table of that number.",
+  "main": "table.js",
+  "type": "module",
+  "bin": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Shoaib",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
