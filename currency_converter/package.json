@@ -1,0 +1,21 @@
+{
+  "name": "shoaib117_currency_converter",
+  "version": "1.0.0",
+  "description": " its a currency converter its convert pkr to usd and uae and same convert usd to pkr and uae and also convert uae to pkr and usd.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Shoaib",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
